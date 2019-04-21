@@ -1,0 +1,14 @@
+## Mac
+.DS_Store
+
+## idea
+.idea
+.idea/
+.idea/*
+
+## log
+/logs
+/log
+logs/
+log/
+*.log
